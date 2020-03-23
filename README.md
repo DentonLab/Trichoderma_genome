@@ -1,5 +1,8 @@
 # Near-complete genomes of two Trichoderma species: a resource for biological control of plant pathogens
 
+## License
+This repo is free and open source for research usage, licensed under GNU GPLv3.
+
 ## Introduction 
 Trichoderma species are widely used to control fungal and nematode diseases of crops. To date, only one complete Trichoderma genome has been sequenced, T. reesei stain QM6a, a model fungus for industrial enzyme production, while the species or strains used for biological control of plant diseases are only available as draft genomes. Previously, we demonstrated that two Trichoderma strains (T. harzianum and T. cyanodichotomus) provide effective control of nematode and fungal plant pathogens. Based on deep sequencing using Illumina and Pacbio platforms, we have assembled high-quality genomes of the above two strains, with contig N50 reaching 4.2 Mbp and 1.7 Mbp, respectively, higher than published draft genomes. The genome data will provide a resources to assist research on the biological control mechanisms of Trichoderma spp.
 
