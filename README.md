@@ -6,7 +6,11 @@ Trichoderma species are widely used to control fungal and nematode diseases of c
 ## Data 
 The raw sequence and assembled genome have been submitted to the NCBI database: BioProject: PRJNA596042, BioSample: SAMN13611475, accession number: WUWT00000000, for Trichoderma harzianum strain T11-W; and BioProject: PRJNA598077, BioSample: SAMN13698093, accession number: WXUD00000000, for Trichoderma cyanodichotomus strain TW21990-1.
 
-Here we provide the sequences of each gene identified from the genomes (**Trichoderma harzianum strain T11-W.Gene.fasta** and **Trichoderma cyanodichotomus strain TW21990-1.Gene.fasta**) and the detailed genome annotation (**Trichoderma harzianum strain T11-W.xlsx** and **Trichoderma cyanodichotomus strain TW21990-1.xlsx**) including non-coding RNA (sRNA, rRNA, tRNA, snRNA and miRNA), transposon sequences, and the annotation of the genes from the National Center for Biotechnology Information (NCBI) non-redundant (NR) database, Gene Ontology (GO), Cluster of Orthologous Groups of proteins (COG) and CAZy.
+Here we provide the sequences of each gene identified from the genomes 
+(**Trichoderma harzianum strain T11-W.Gene.fasta** and **Trichoderma cyanodichotomus strain TW21990-1.Gene.fasta**) 
+and the detailed genome annotation 
+(**Trichoderma harzianum strain T11-W.xlsx** and **Trichoderma cyanodichotomus strain TW21990-1.xlsx**) 
+including non-coding RNA (sRNA, rRNA, tRNA, snRNA and miRNA), transposon sequences, and the annotation of the genes from the National Center for Biotechnology Information (NCBI) non-redundant (NR) database, Gene Ontology (GO), Cluster of Orthologous Groups of proteins (COG) and CAZy.
 
 ## Methods 
 Non-coding RNA: rRNAs was identified by comparing with rRNA database or predicting with RNAmmer software (version 1.2 www.cbs.dtu.dk/services/RNAmmer Parameters:–s Species –m Type –gff *. rRNA.gff –f *.rRNA.fq); tRNA was predicted by tRNAscan-SE (version:1.3.1, https://gtrnadb.ucsc.edu Parameters:–Spec_tag(BAOG) –o *. tRNA –f *); sRNAs was identified by comparing with database Rfam (version:9.1, https://rfam.sanger.ac.uk Parameters:–p blastn –W 7 –e 1 –v 10000 –b 10000 –m 8 –i subfile –o *.blast.m8).
