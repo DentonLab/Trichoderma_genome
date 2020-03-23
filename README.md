@@ -8,11 +8,15 @@ The raw sequence and assembled genome have been submitted to the NCBI database: 
 
 Here we provide the sequences of each gene identified from the genomes 
 
-(**Trichoderma harzianum strain T11-W.Gene.fasta** and **Trichoderma cyanodichotomus strain TW21990-1.Gene.fasta**) 
+**Trichoderma harzianum strain T11-W.Gene.fasta**
+
+**Trichoderma cyanodichotomus strain TW21990-1.Gene.fasta**
 
 and the detailed genome annotation 
 
-(**Trichoderma harzianum strain T11-W.xlsx** and **Trichoderma cyanodichotomus strain TW21990-1.xlsx**) 
+**Trichoderma harzianum strain T11-W.xlsx**
+
+**Trichoderma cyanodichotomus strain TW21990-1.xlsx** 
 
 including non-coding RNA (sRNA, rRNA, tRNA, snRNA and miRNA), transposon sequences, and the annotation of the genes from the National Center for Biotechnology Information (NCBI) non-redundant (NR) database, Gene Ontology (GO), Cluster of Orthologous Groups of proteins (COG) and CAZy.
 
